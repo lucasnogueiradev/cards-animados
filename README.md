@@ -18,3 +18,4 @@ Para rodar o projeto localmente, siga estes passos:
    git clone https://github.com/usuario/cards-animados.git
    cd cards-animados
    
+![image](https://github.com/user-attachments/assets/6809ce52-bd1c-4a2a-bcf8-7407d001da09)
